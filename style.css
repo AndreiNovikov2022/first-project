@@ -5,3 +5,12 @@ style {
 .typo_line_m.typo_text_m {
 line-height: 17px;
 }
+
+.typo_text_m {
+    font-size: 13px;
+    line-height: 1em;
+}
+
+.typo_line_m {
+    line-height: 1em;
+}
