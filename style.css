@@ -1,3 +1,7 @@
 style {
     display: none;
 }
+
+.typo_line_m.typo_text_m {
+line-height: 17px;
+}
